@@ -33,3 +33,8 @@ python data_pipeline.py
 ```
 
 ---
+### 📊 Featured Implementations
+- 📂 **[LLM Data Pipeline & Annotation Optimizer](https://github.com)**: An automated Python/Pandas data engineering framework designed to ingest, filter, and normalize raw unaligned model token outputs.
+- 📂 **[Adversarial Red-Teaming & Safety Framework](https://github.com)**: A programmatic simulation engine designed to stress-test model guardrails, find logic gaps, and log vulnerabilities.
+- 📂 **[Multimodal Synthetic Voice Evaluation Matrix](https://github.com)**: An acoustic analytics engine calculating phase coherence, transient degradation, and audio LLM fidelity.
+- 
